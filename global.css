@@ -21,6 +21,16 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
+h1 {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+p {
+    text-align: center;
+    font-size: 1rem;
+}
+
 .lista-ordenavel {
     border: 1px solid var(--cor-de-borda);
     color: var(--cor-de-texto);
